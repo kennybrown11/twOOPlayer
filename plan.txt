@@ -1,0 +1,18 @@
+Nouns
+  Game
+  Question
+  Player
+
+Methods
+  Game
+    -turns
+    -lose lives
+    -correct & incorrect
+
+  Questions
+    -randomly generated Question
+    -check answer
+
+  Players
+    -name
+    -lives
